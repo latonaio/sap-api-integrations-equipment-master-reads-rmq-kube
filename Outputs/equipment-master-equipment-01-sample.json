@@ -5,9 +5,9 @@
 	"message": [
 		{
 			"Equipment": "10000000",
-			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ValidityEndTime": "PT00H00M00S",
-			"ValidityStartDate": "/Date(1492041600000)/",
+			"ValidityStartDate": "2017-04-13T09:00:00+09:00",
 			"EquipmentName": "FIN226,MTO,PD,Batch-Fifo,SerialNo",
 			"EquipmentCategory": "X",
 			"TechnicalObjectType": "",
@@ -54,11 +54,11 @@
 			"EquipmentIsInstalled": false,
 			"EquipIsAllocToSuperiorEquip": false,
 			"EquipHasSubOrdinateEquipment": "",
-			"CreationDate": "/Date(1492041600000)/",
+			"CreationDate": "2017-04-13T09:00:00+09:00",
 			"LastChangeDateTime": "",
 			"EquipmentIsMarkedForDeletion": false,
 			"to_Partner": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_EQUIPMENT/Equipment(Equipment='10000000',ValidityEndDate=datetime'9999-12-31T00%3A00%3A00')/to_Partner"
 		}
 	],
-	"time": "2021-12-28T11:39:34.970492+09:00"
+	"time": "2022-01-28T16:56:13+09:00"
 }
